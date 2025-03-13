@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GOTC\\.nuget\\packages\\": {}
+    "C:\\Users\\Richard Schubert\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\a backup\\Strutz\\Strutz_HMI\\ProjectFiles\\NetSolution\\Strutz_HMI.csproj",
+      "projectUniqueName": "C:\\Users\\Richard Schubert\\Documents\\Rockwell Automation\\FactoryTalk Optix\\Projects\\Strutz_HMI\\ProjectFiles\\NetSolution\\Strutz_HMI.csproj",
       "projectName": "Strutz_HMI",
-      "projectPath": "Z:\\a backup\\Strutz\\Strutz_HMI\\ProjectFiles\\NetSolution\\Strutz_HMI.csproj",
-      "packagesPath": "C:\\Users\\GOTC\\.nuget\\packages\\",
-      "outputPath": "Z:\\a backup\\Strutz\\Strutz_HMI\\ProjectFiles\\NetSolution\\obj\\",
+      "projectPath": "C:\\Users\\Richard Schubert\\Documents\\Rockwell Automation\\FactoryTalk Optix\\Projects\\Strutz_HMI\\ProjectFiles\\NetSolution\\Strutz_HMI.csproj",
+      "packagesPath": "C:\\Users\\Richard Schubert\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Richard Schubert\\Documents\\Rockwell Automation\\FactoryTalk Optix\\Projects\\Strutz_HMI\\ProjectFiles\\NetSolution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GOTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Richard Schubert\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -3111,7 +3111,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Color
       ModellingRule: Optional
-      Value: "#cf05fa"
+      Value: "#0fafff"
     - Name: Visible
       Type: BaseDataVariableType
       DataType: Boolean
