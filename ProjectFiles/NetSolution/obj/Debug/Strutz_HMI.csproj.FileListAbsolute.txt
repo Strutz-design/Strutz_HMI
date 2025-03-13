@@ -1,13 +1,13 @@
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\bin\Strutz_HMI.deps.json
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\bin\Strutz_HMI.dll
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\bin\Strutz_HMI.pdb
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.csproj.AssemblyReference.cache
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.AssemblyInfoInputs.cache
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.AssemblyInfo.cs
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.csproj.CoreCompileInputs.cache
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.sourcelink.json
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.dll
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\refint\Strutz_HMI.dll
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.pdb
-C:\Users\Richard Schubert\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\ref\Strutz_HMI.dll
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\bin\Strutz_HMI.deps.json
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\bin\Strutz_HMI.dll
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\bin\Strutz_HMI.pdb
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.csproj.AssemblyReference.cache
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.AssemblyInfoInputs.cache
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.AssemblyInfo.cs
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.sourcelink.json
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.dll
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\refint\Strutz_HMI.dll
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.pdb
+C:\Users\labuser\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\ref\Strutz_HMI.dll
