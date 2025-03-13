@@ -1,0 +1,12 @@
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\bin\Strutz_HMI.deps.json
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\bin\Strutz_HMI.dll
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\bin\Strutz_HMI.pdb
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.csproj.AssemblyReference.cache
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.AssemblyInfoInputs.cache
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.AssemblyInfo.cs
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.csproj.CoreCompileInputs.cache
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.dll
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\refint\Strutz_HMI.dll
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\Strutz_HMI.pdb
+Z:\a backup\Strutz\Strutz_HMI\ProjectFiles\NetSolution\obj\Debug\ref\Strutz_HMI.dll

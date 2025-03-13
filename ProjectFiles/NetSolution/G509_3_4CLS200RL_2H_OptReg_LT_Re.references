@@ -1,0 +1,168 @@
+<Project>
+  <ItemGroup>
+    <Reference Include="FTOptix.Core.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.Core.Net/2.0.0.33/Any/FTOptix.Core.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.HMIProject.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.HMIProject.Net/4.8.0.5/Any/FTOptix.HMIProject.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.CoreBase.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.CoreBase.Net/1.1.2.89/Any/FTOptix.CoreBase.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.UI.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.UI.Net/14.2.0.55/Any/FTOptix.UI.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.EventLogger.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.EventLogger.Net/1.0.8.81/Any/FTOptix.EventLogger.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.NativeUI.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.NativeUI.Net/1.0.8.169/Any/FTOptix.NativeUI.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.SerialPort.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.SerialPort.Net/1.0.8.122/Any/FTOptix.SerialPort.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.NetLogic">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.NetLogic/4.0.0.51/Any/FTOptix.NetLogic.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.Retentivity.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.Retentivity.Net/1.0.8.135/Any/FTOptix.Retentivity.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.System.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.System.Net/2.0.3.84/Any/FTOptix.System.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.Store.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.Store.Net/1.0.8.79/Any/FTOptix.Store.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.DataLogger.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.DataLogger.Net/1.0.8.131/Any/FTOptix.DataLogger.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.RAEtherNetIP.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.RAEtherNetIP.Net/2.2.0.170/Any/FTOptix.RAEtherNetIP.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.MQTTBroker.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.MQTTBroker.Net/2.0.0.26/Any/FTOptix.MQTTBroker.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.WebUI.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.WebUI.Net/1.2.0.170/Any/FTOptix.WebUI.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.InfluxDBStoreRemote.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.InfluxDBStoreRemote.Net/1.0.0.55/Any/FTOptix.InfluxDBStoreRemote.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.CommunicationDriver.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.CommunicationDriver.Net/3.0.0.50/Any/FTOptix.CommunicationDriver.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.EdgeAppPlatform">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.EdgeAppPlatform/1.0.2.126/Any/FTOptix.EdgeAppPlatform.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.Alarm.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.Alarm.Net/1.2.1.103/Any/FTOptix.Alarm.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.CODESYS.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.CODESYS.Net/2.0.4.122/Any/FTOptix.CODESYS.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.InfluxDBStoreLocal.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.InfluxDBStoreLocal.Net/1.0.0.60/Any/FTOptix.InfluxDBStoreLocal.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.AuditSigning.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.AuditSigning.Net/1.1.2.124/Any/FTOptix.AuditSigning.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.InfluxDBStore.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.InfluxDBStore.Net/1.0.1.87/Any/FTOptix.InfluxDBStore.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.MelsecFX3U.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.MelsecFX3U.Net/1.0.8.122/Any/FTOptix.MelsecFX3U.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.MelsecQ.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.MelsecQ.Net/1.0.8.122/Any/FTOptix.MelsecQ.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.MicroController.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.MicroController.Net/3.1.0.108/Any/FTOptix.MicroController.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.Modbus.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.Modbus.Net/1.0.8.122/Any/FTOptix.Modbus.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.MQTTClient.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.MQTTClient.Net/1.0.0.5/Any/FTOptix.MQTTClient.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.SQLiteStore.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.SQLiteStore.Net/1.0.8.83/Any/FTOptix.SQLiteStore.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.ODBCStore.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.ODBCStore.Net/1.0.8.86/Any/FTOptix.ODBCStore.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.OPCUAClient.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.OPCUAClient.Net/1.2.0.69/Any/FTOptix.OPCUAClient.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.OPCUAServer.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.OPCUAServer.Net/1.1.4.95/Any/FTOptix.OPCUAServer.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.OmronFins.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.OmronFins.Net/1.0.8.122/Any/FTOptix.OmronFins.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.OmronEthernetIP.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.OmronEthernetIP.Net/1.0.8.122/Any/FTOptix.OmronEthernetIP.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.Recipe.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.Recipe.Net/1.0.8.90/Any/FTOptix.Recipe.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.Report.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.Report.Net/2.4.0.71/Any/FTOptix.Report.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.S7TCP.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.S7TCP.Net/1.0.8.122/Any/FTOptix.S7TCP.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.S7TiaProfinet.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.S7TiaProfinet.Net/1.1.2.123/Any/FTOptix.S7TiaProfinet.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FTOptix.TwinCAT.Net">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Modules/FTOptix.TwinCAT.Net/3.0.1.124/Any/FTOptix.TwinCAT.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UAManagedCore">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Bindings/Net/4.0.0.20/Win32_x64/UAManagedCore.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UAManagedCoreCommon">
+      <HintPath>C:/Program Files/Rockwell Automation/FactoryTalk Optix/Studio 1.5.2.13/Bindings/Net/4.0.0.20/Win32_x64/UAManagedCoreCommon.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+</Project>
