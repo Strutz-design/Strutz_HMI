@@ -1,0 +1,99 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: ScreenPointer
+  Id: g=4276e534a51b855fadb3f4c3befa2a25
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: password screen visual
+  Id: g=9e0f4bc1d6681dc9f600d44564e9c62d
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Side menu screen visual
+  Id: g=7151af6fab1d8b6427070c4bee3aa97c
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: screen name pointer
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: DummyScreenVariable
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Alarm summary visual
+  Id: g=5d2d244c60a41596369c829542ef91cd
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Image Visual missing bottle
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Image Visual mis chucked bottle
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Image Visual loader fault
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Image_popup
+  Id: g=5bbcff2bce41cdfb0bd53a6b3bf6a074
+  Supertype: BaseObjectType
+  Children:
+  - Name: Title
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    Value: {"LocaleId":"en-US","Text":"0"}
+  - Name: Image
+    Type: BaseDataVariableType
+    DataType: ResourceUri
+    Value: "0"
+  - Name: PLC_Tag
+    Type: BaseDataVariableType
+    DataType: Boolean
+- File: Image_popup_buttons/Image_popup_buttons.yaml
+- Name: OverloadFaultButton
+  Id: g=733a2ca6a46e53b4390d2cee78a21dc2
+  Supertype: BaseObjectType
+  Children:
+  - Name: Name
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    Value: {"LocaleId":"en-US","Text":"0"}
+  - Name: PLC_Tag
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Alias1
+    Type: Alias
+    DataType: NodeId
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+- Name: PDF_View_enable
+  Id: g=f8c43143798cd15ca3772134c624be94
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: ObjectHeaterRunControl
+  Id: g=5b9b51df0ba4ac19fc7b81d844ba05b3
+  Supertype: BaseObjectType
+  Children:
+  - Name: Title
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    Value: {"LocaleId":"en-US","Text":"0"}
+  - Name: Current
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: FDbk
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: OnOff_control
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Overload_Reset
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: Overload
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Run_Setting
+    Type: BaseDataVariableType
+    DataType: Int32
+- File: Heater_Run_Control/Heater_Run_Control.yaml

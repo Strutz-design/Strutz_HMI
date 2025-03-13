@@ -1,0 +1,428 @@
+Name: Controller Tags
+Type: FolderType
+Children:
+- Name: Resolver_Position
+  Type: RAEtherNetIPTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Resolver_Position"
+- Name: Missing_Bottle_Indicator
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Missing_Bottle_Indicator"
+- Name: Unload_Overload_Indicator
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Unload_Overload_Indicator"
+- Name: Load_Overload_Indicator
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Load_Overload_Indicator"
+- Name: MisChucked_Bottle_Sensor
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MisChucked_Bottle_Sensor"
+- Name: Load_Transfer_Disc_Prox
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Load_Transfer_Disc_Prox"
+- Name: Screen_Heater_Body_Deco_Sta_1
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Heater_Body_Deco_Sta_1"
+- Name: Screen_Heater_Body_Deco_Sta_2
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Heater_Body_Deco_Sta_2"
+- Name: Screen_Heater_Body_Deco_Sta_3
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Heater_Body_Deco_Sta_3"
+- Name: Screen_Heater_Body_Deco_Sta_4
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Heater_Body_Deco_Sta_4"
+- Name: Screen_Heater_Shoulder_Deco_Sta_1
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Heater_Shoulder_Deco_Sta_1"
+- Name: Screen_Heater_Shoulder_Deco_Sta_2
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Heater_Shoulder_Deco_Sta_2"
+- Name: Screen_Heater_Shoulder_Deco_Sta_3
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Heater_Shoulder_Deco_Sta_3"
+- Name: Screen_Heater_Shoulder_Deco_Sta_4
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Heater_Shoulder_Deco_Sta_4"
+- Name: BottlesPerMinute
+  Type: RAEtherNetIPTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BottlesPerMinute"
+- Name: LowSpeedBottlesPerMinute
+  Type: RAEtherNetIPTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "LowSpeedBottlesPerMinute"
+- Name: EPACK_Body_Alarm_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "EPACK_Body_Alarm_1"
+- Name: EPACK_Body_Current_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "EPACK_Body_Current_1"
+- Name: EPACK_Shoulder_Alarm_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "EPACK_Shoulder_Alarm_1"
+- Name: EPACK_Shoulder_Current_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "EPACK_Shoulder_Current_1"
+- Name: EPACK_Body_ResetAlarm_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "EPACK_Body_ResetAlarm_1"
+- Name: EPACK_Shoulder_SetPt_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "EPACK_Shoulder_SetPt_1"
+- Name: EPACK_Shoulder_ResetAlarm_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "EPACK_Shoulder_ResetAlarm_1"
+- Name: Screen_Run_SetPT_Body_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Run_SetPT_Body_1"
+- Name: Screen_StandBy_SetPT_Body_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_StandBy_SetPT_Body_1"
+- Name: Screen_StandBy_SetPT_Shoulder_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_StandBy_SetPT_Shoulder_1"
+- Name: Screen_StandBy_SetPT_Body_2
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_StandBy_SetPT_Body_2"
+- Name: Screen_StandBy_SetPT_Shoulder_2
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_StandBy_SetPT_Shoulder_2"
+- Name: Screen_StandBy_SetPT_Body_3
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_StandBy_SetPT_Body_3"
+- Name: Screen_StandBy_SetPT_Shoulder_3
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_StandBy_SetPT_Shoulder_3"
+- Name: Screen_StandBy_SetPT_Body_4
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_StandBy_SetPT_Body_4"
+- Name: Screen_StandBy_SetPT_Shoulder_4
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_StandBy_SetPT_Shoulder_4"
+- Name: Screen_Run_SetPT_Body_2
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Run_SetPT_Body_2"
+- Name: Screen_Run_SetPT_Body_3
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Run_SetPT_Body_3"
+- Name: Screen_Run_SetPT_Body_4
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Run_SetPT_Body_4"
+- Name: Screen_Run_SetPT_Shoulder_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Run_SetPT_Shoulder_1"
+- Name: Screen_Run_SetPT_Shoulder_2
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Run_SetPT_Shoulder_2"
+- Name: Screen_Run_SetPT_Shoulder_3
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Run_SetPT_Shoulder_3"
+- Name: Screen_Run_SetPT_Shoulder_4
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Screen_Run_SetPT_Shoulder_4"
+- Name: EPACK_Body_Alarm_2
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "EPACK_Body_Alarm_2"
+- Name: EPACK_Body_Alarm_3
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "EPACK_Body_Alarm_3"
+- Name: HMI_Screen_Heater_Display
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "HMI_Screen_Heater_Display"
+- Name: Pulse
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Pulse"
+- Name: Optix_i_0
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Optix_i_0"
+- Name: Optix_i_2
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Optix_i_2"
+- Name: Optix_i_1
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Optix_i_1"
+- Name: Optix_O_0
+  Id: g=6718597311105a85513c0c8242e5dfb0
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Optix_O_0"
+- Name: Optix_O_1
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Optix_O_1"
+- Name: Optix_O_2
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Optix_O_2"
+- Name: Optix_Dint_1
+  Type: RAEtherNetIPTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Optix_Dint_1"
+- Name: Optix_INT_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Optix_INT_1"
+- Name: Optix_Real_1
+  Type: RAEtherNetIPTag
+  DataType: Float
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Optix_Real_1"
+- Name: Optix_String_1
+  Type: RAEtherNetIPTag
+  DataType: String
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Optix_String_1"

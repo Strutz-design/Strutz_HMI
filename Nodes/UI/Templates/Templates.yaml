@@ -1,0 +1,6 @@
+Name: Templates
+Type: FolderType
+Children:
+- File: LoginForm/LoginForm.yaml
+- File: ChangeUserForm/ChangeUserForm.yaml
+- File: UserEditor/UserEditor.yaml

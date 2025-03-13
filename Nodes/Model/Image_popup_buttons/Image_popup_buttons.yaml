@@ -1,0 +1,128 @@
+Name: Image popup buttons
+Type: FolderType
+Children:
+- Name: Image Missing bottle
+  Id: g=edcf467506fc40c042d8fa600f6c9990
+  Type: Image_popup
+  Children:
+  - Name: Title
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    Value: {"LocaleId":"en-US","Text":"Missing Bottle"}
+  - Name: Image
+    Type: BaseDataVariableType
+    DataType: ResourceUri
+    Value: "ns=30;%PROJECTDIR%/Missing Bottle.bmp"
+  - Name: PLC_Tag
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Children:
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: "../../../../CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1_3100/Tags/Controller Tags/Missing_Bottle_Indicator"
+      Children:
+      - Name: Mode
+        Type: BaseVariableType
+        DataType: DynamicLinkMode
+        Value: 2
+- Name: Image Mis Chucked Bottle
+  Id: g=e5ce059378a21a2fa0579402f6bad9e5
+  Type: Image_popup
+  Children:
+  - Name: Title
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    Value: {"LocaleId":"en-US","Text":"Mis Chucked Bottle"}
+  - Name: Image
+    Type: BaseDataVariableType
+    DataType: ResourceUri
+    Value: "ns=30;%PROJECTDIR%/Mis chucked bottle.png"
+  - Name: PLC_Tag
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Children:
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: "../../../../CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1_3100/Tags/Controller Tags/MisChucked_Bottle_Sensor"
+      Children:
+      - Name: Mode
+        Type: BaseVariableType
+        DataType: DynamicLinkMode
+        Value: 2
+- Name: Image Bottle loader overload
+  Id: g=9ce6c3711a4496afca36ce6d7847bf0b
+  Type: Image_popup
+  Children:
+  - Name: Title
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    Value: {"LocaleId":"en-US","Text":"Bottle Loader Overload"}
+  - Name: Image
+    Type: BaseDataVariableType
+    DataType: ResourceUri
+    Value: "ns=30;%PROJECTDIR%/Bottle Loader Overload.png"
+  - Name: PLC_Tag
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Children:
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: "../../../../CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1_3100/Tags/Controller Tags/Load_Overload_Indicator"
+      Children:
+      - Name: Mode
+        Type: BaseVariableType
+        DataType: DynamicLinkMode
+        Value: 2
+- Name: Image Bottle unloader overload
+  Id: g=d91ce93c0bfbb5b5a90467a7f6a3615a
+  Type: Image_popup
+  Children:
+  - Name: Title
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    Value: {"LocaleId":"en-US","Text":"Bottle Unloader Overload"}
+  - Name: Image
+    Type: BaseDataVariableType
+    DataType: ResourceUri
+    Value: "ns=30;%PROJECTDIR%/Bottle Unloader Overload.bmp"
+  - Name: PLC_Tag
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Children:
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: "../../../../CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1_3100/Tags/Controller Tags/Unload_Overload_Indicator"
+      Children:
+      - Name: Mode
+        Type: BaseVariableType
+        DataType: DynamicLinkMode
+        Value: 2
+- Name: Image Load Transfer Disk Overload
+  Id: g=335b1b510a84e1b7121e0e1d2a403534
+  Type: Image_popup
+  Children:
+  - Name: Title
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    Value: {"LocaleId":"en-US","Text":"Load Transfer Disk overload"}
+  - Name: Image
+    Type: BaseDataVariableType
+    DataType: ResourceUri
+    Value: "ns=30;%PROJECTDIR%/Load Transfer Disc Overload.bmp"
+  - Name: PLC_Tag
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Children:
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: "../../../../CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1_3100/Tags/Controller Tags/Load_Transfer_Disc_Prox"
+      Children:
+      - Name: Mode
+        Type: BaseVariableType
+        DataType: DynamicLinkMode
+        Value: 2
