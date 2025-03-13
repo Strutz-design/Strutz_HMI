@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GOTC\\.nuget\\packages\\": {}
+    "C:\\Users\\labuser\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\a backup\\Strutz\\Strutz_HMI\\ProjectFiles\\NetSolution\\Strutz_HMI.csproj",
+      "projectUniqueName": "C:\\Users\\labuser\\Documents\\Rockwell Automation\\FactoryTalk Optix\\Projects\\Strutz_HMI\\ProjectFiles\\NetSolution\\Strutz_HMI.csproj",
       "projectName": "Strutz_HMI",
-      "projectPath": "Z:\\a backup\\Strutz\\Strutz_HMI\\ProjectFiles\\NetSolution\\Strutz_HMI.csproj",
-      "packagesPath": "C:\\Users\\GOTC\\.nuget\\packages\\",
-      "outputPath": "Z:\\a backup\\Strutz\\Strutz_HMI\\ProjectFiles\\NetSolution\\obj\\",
+      "projectPath": "C:\\Users\\labuser\\Documents\\Rockwell Automation\\FactoryTalk Optix\\Projects\\Strutz_HMI\\ProjectFiles\\NetSolution\\Strutz_HMI.csproj",
+      "packagesPath": "C:\\Users\\labuser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\labuser\\Documents\\Rockwell Automation\\FactoryTalk Optix\\Projects\\Strutz_HMI\\ProjectFiles\\NetSolution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GOTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\labuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\Rockwell Automation\\FactoryTalk Optix\\Studio 1.5.6.0\\Tools\\DotNetSdk\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\Rockwell Automation\\FactoryTalk Optix\\Studio 1.5.4.2\\Tools\\DotNetSdk\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
