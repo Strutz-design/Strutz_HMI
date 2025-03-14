@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Strutz_HMI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7680ad19d63175e9d1c939c66ea60335e4aabb0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+137541ad5c291e6637dc276a1840f2f4991be19d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Strutz_HMI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Strutz_HMI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
